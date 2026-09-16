@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cổng thông tin sinh viên</title>
+<meta name="description" content="Thông tin học bổng, sự kiện, tuyển dụng và thông báo dành cho sinh viên">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-top">
+      <h1 class="site-title">Cổng thông tin sinh viên</h1>
+      <div class="search-box">
+        <input type="text" id="search-input" placeholder="Tìm theo tiêu đề..." aria-label="Tìm kiếm bài viết">
+      </div>
+    </div>
+    <nav class="category-nav" id="category-nav" aria-label="Danh mục chuyên mục">
+      <!-- Các nút chuyên mục được render tự động bởi script.js -->
+    </nav>
+  </header>
+
+  <main class="site-main">
+
+    <section id="list-view" class="view">
+      <p id="status-msg" class="status-msg" hidden></p>
+      <div id="article-list" class="article-grid"></div>
+    </section>
+
+    <section id="detail-view" class="view" hidden>
+      <button id="back-btn" class="back-btn" type="button">&larr; Quay lại danh sách</button>
+      <article id="article-detail" class="article-detail"></article>
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <p>Nội dung được cập nhật trực tiếp từ GitHub repository.</p>
+  </footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
