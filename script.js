@@ -2,8 +2,8 @@
    CẤU HÌNH — CHỈNH SỬA PHẦN NÀY CHO ĐÚNG VỚI REPO CỦA BẠN
    ===================================================================== */
 const CONFIG = {
-  githubUsername: "YOUR_GITHUB_USERNAME",   // ví dụ: "nguyenvana"
-  repoName: "YOUR_REPO_NAME",               // ví dụ: "sinhvien-portal"
+  githubUsername: "huyyddat",   // ví dụ: "nguyenvana"
+  repoName: "26dhth08-news",               // ví dụ: "sinhvien-portal"
   branch: "main",                           // tên nhánh chứa nội dung, ví dụ: "main"
 
   // Danh sách chuyên mục: key = định danh nội bộ, label = tên hiển thị,
