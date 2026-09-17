@@ -6,11 +6,9 @@ image: https://image3.luatvietnam.vn/uploaded/images/original/2024/06/14/doan-tn
 ---
 
 
-# Thông báo triển khai thu Sổ Đoàn và Đoàn phí
-
 Chào cả lớp,
 
-Ban cán sự/Bí thư xin thông báo đến các bạn kế hoạch **nộp Sổ Đoàn và đóng Đoàn phí** với các nội dung cụ thể như sau:
+Ban cán sự của lớp xin thông báo đến các bạn kế hoạch **nộp Sổ Đoàn và đóng Đoàn phí** với các nội dung cụ thể như sau:
 
 
 ## 1. Thời gian và hạn nộp
